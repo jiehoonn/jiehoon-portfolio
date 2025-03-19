@@ -10,7 +10,7 @@ function Footer() {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
           className="flex justify-center"
-          style={{ marginTop: '-115px', marginBottom: '-35px' }}
+          style={{ marginTop: '-80px', marginBottom: '-35px' }}
         >
           <img 
             src={blurTextSvg} 
